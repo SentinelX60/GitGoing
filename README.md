@@ -1,3 +1,16 @@
+# GitGoing – Git & GitHub Practice Repo 🏃🏽‍♀️💨
+
+This repository is part of my hands-on learning path for version control, GitHub workflows, and secure engineering practices.  
+As a Cloud Security Engineer focused on automation, cloud platforms, and DevSecOps workflows, I use this sandbox to:
+
+- Practice Git branching, merging, and pull request flow  
+- Learn GitHub Desktop + VS Code local repo workflows  
+- Improve commit discipline and documentation habits  
+- Build foundational version control skills for Terraform, cloud labs, and containerized projects  
+
+This repo is intentionally simple and used for skill-building.  
+Technical projects involving cloud, security, and infrastructure continue in my other repos.
+
 # GitGoing 🏃🏽‍♀️💨
 GitGoing is a beginner-friendly project focused on tracking progress and learning how to use git and GitHub.
 
